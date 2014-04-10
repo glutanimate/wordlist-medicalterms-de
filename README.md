@@ -1,4 +1,4 @@
-## README for wordlist-medicalterms
+## README for wordlist-medicalterms-de
 
 
 ###Overview
