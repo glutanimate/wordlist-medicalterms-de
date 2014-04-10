@@ -1,4 +1,4 @@
-## README for wordlist-hunspell-de-med
+## README for wordlist-medicalterms
 
 
 **Overview**
