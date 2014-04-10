@@ -30,13 +30,13 @@ If you are using Linux your distribution might be shipping with a ready-made pac
 
 *Manual installation*
 
-Follow the instructions provided in [this Q&A](http://ask.libreoffice.org/en/question/11170/create-basic-english-dictionary/?answer=11187#post-id-11187) to create a new custom dictionary. Make sure to name it in a recongizable fashion (e.g. medicalterms) and activate it in the menu. 
+Follow the instructions provided in [this Q&A](http://ask.libreoffice.org/en/question/11170/create-basic-english-dictionary/?answer=11187#post-id-11187) to create a new custom dictionary. Make sure to name it in a recongizable fashion (e.g. medicalterms.de) and activate it in the menu. 
 
-[Find out where your LO user profile is located](https://wiki.documentfoundation.org/UserProfile#User_profile_location). Then proceed to navigate to `<LO user profile directory>\3\user\wordbook` and find your dictionary (e.g. hunspell-med-de.dic). Open it in a text editor of your choice (e.g. Gedit on Ubuntu; Notepad++ on Windows, NOT Notepad!). Copy and paste the full contents of `wordlist.txt` below the dashed line (`---`). Save the file while making sure it remains UTF-8 encoded and restart LibreOffice.
+[Find out where your LO user profile is located](https://wiki.documentfoundation.org/UserProfile#User_profile_location). Then proceed to navigate to `<LO user profile directory>\3\user\wordbook` and find your dictionary (e.g. medicalterms-de.dic). Open it in a text editor of your choice (e.g. Gedit on Ubuntu; Notepad++ on Windows, NOT Notepad!). Copy and paste the full contents of `wordlist.txt` below the dashed line (`---`). Save the file while making sure it remains UTF-8 encoded and restart LibreOffice.
 
 **Word**
 
-Rename `wordlist.txt` to `medicalterms.dic` and follow the instructions provided [here](http://support.microsoft.com/kb/322198).
+Rename `wordlist.txt` to `medicalterms-de.dic` and follow the instructions provided [here](http://support.microsoft.com/kb/322198).
 
 
 ###Waranty
